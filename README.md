@@ -17,4 +17,19 @@
 - Analyzed 51,717 restaurants from Zomato Bangalore dataset
 - Discovered BTM Layout has most restaurants (5,124)
 - Found 0.39 correlation between cost and rating
-- **Tools:** Python,
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### Task 3: Data Visualization
+- Built interactive 4-panel Plotly dashboard
+- Visualized location trends, cuisine popularity and rating patterns
+- **Tools:** Python, Plotly, Matplotlib, Seaborn
+
+### Task 4: Sentiment Analysis
+- Analyzed 568,454 Amazon food reviews using NLP
+- Found 89.1% positive, 9.4% negative, 1.5% neutral
+- Built word clouds for positive and negative reviews
+- **Tools:** Python, TextBlob, NLTK, WordCloud, Matplotlib
+
+## 🔗 Links
+- GitHub: github.com/celinaa-dev
+- LinkedIn: linkedin.com/in/celina-jagati-195690342
